@@ -2,9 +2,8 @@ package com.ngyb.textviewsummary;
 
 import android.content.Context;
 import android.graphics.Rect;
+import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
-
-import androidx.appcompat.widget.AppCompatTextView;
 
 /**
  * 作者：南宫燚滨
